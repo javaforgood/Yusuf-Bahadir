@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: transport-service    
+
+server:
+  port: ${PORT:9000}

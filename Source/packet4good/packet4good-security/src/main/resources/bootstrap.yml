@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: sso    
+
+server:
+  port: ${PORT:9999}
+  context-path: /sso
